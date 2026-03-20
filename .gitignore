@@ -18,3 +18,5 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+data/fer2013/
+data/temp_face.jpg

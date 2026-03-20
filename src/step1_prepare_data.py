@@ -12,7 +12,7 @@ from PIL import Image
 from tqdm import tqdm
 import cv2
 
-STUDENT_DATA_PATH = "../data/students"
+STUDENT_DATA_PATH = "../data/students/students_data"
 FER_DATA_PATH     = "../data/fer2013"
 OUTPUT_PATH       = "../data/processed"
 

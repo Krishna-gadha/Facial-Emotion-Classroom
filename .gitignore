@@ -1,0 +1,20 @@
+# Student images - privacy
+data/students/
+
+# Model files - too large for GitHub
+models/*.h5
+models/*.keras
+models/*.weights.h5
+
+# Keep logs folder but not contents
+data/logs/*
+!data/logs/.gitkeep
+
+# Registered faces - privacy
+data/registered_faces/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

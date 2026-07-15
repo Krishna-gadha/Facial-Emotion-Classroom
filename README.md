@@ -48,4 +48,5 @@ facial-emotion-classroom/
 Student images and trained model files are excluded from this repository via .gitignore.
 
 ## 👩‍💻 Author
-Gadha — B.Tech AI/ML Student
+ Krishnagadha
+ 
